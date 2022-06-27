@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulationn/Encapsulationn.iml" filepath="$PROJECT_DIR$/Encapsulationn/Encapsulationn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfism/Polimorfism.iml" filepath="$PROJECT_DIR$/Polimorfism/Polimorfism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfism, Inheritance, Encapsulation.iml" filepath="$PROJECT_DIR$/Polimorfism, Inheritance, Encapsulation.iml" />
+    </modules>
+  </component>
+</project>
